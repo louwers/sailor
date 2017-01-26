@@ -1,6 +1,6 @@
-#Sailor
+#Potato
 
-A Lua MVC Framework. www.sailorproject.org
+A Lua MVC Framework that I'm selling.
 
 [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE) [![Bountysource](https://img.shields.io/bountysource/team/sailor/activity.svg)](https://www.bountysource.com/teams/sailor)
 [![Support via Gratipay](http://img.shields.io/gratipay/Etiene.svg)](https://gratipay.com/Etiene) 
